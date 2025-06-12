@@ -22,7 +22,9 @@ const StockCard: React.FC<Props> = ({ stock }) => {
   return (
     <View style={[styles.card, getStyle()]}>
       <Text style={styles.name}>{stock.name}</Text>
-      <Text style={styles.prediction}>{stock.prediction}</Text>
+      <Text style={styles.price}>${stock.price.toFixed(2)} ({stock.change > 0 ? '+' : ''}{stock.change.toFixed(2)}%)</Text>
+      {/* Prediction can be displayed in uppercase for better visibility */}
+      <Text style={styles.prediction}>{stock.prediction.toUpperCase()}</Text>
     </View>
   );
 };
@@ -55,6 +57,10 @@ const styles = StyleSheet.create({
   neutral: {
     borderLeftWidth: 5,
     borderLeftColor: 'gray',
+  },
+  price: {
+    fontSize: 16,
+    color: '#333',
   },
 });
 
