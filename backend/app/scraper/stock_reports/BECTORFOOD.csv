@@ -1,0 +1,62 @@
+Section,,Mar 2022,Jun 2022,Sep 2022,Dec 2022,Mar 2023,Jun 2023,Sep 2023,Dec 2023,Mar 2024,Jun 2024,Sep 2024,Dec 2024,Mar 2025,Mar 2018,Mar 2019,Mar 2020,Mar 2021
+Quarterly Results,Sales,252,301,347,368,346,374,415,429,406,439,496,492,446,,,,
+Quarterly Results,Expenses,227,270,303,317,298,316,350,368,348,375,426,431,391,,,,
+Quarterly Results,Operating Profit,25,31,44,51,48,58,65,61,59,64,70,61,56,,,,
+Quarterly Results,OPM %,10%,10%,13%,14%,14%,15%,16%,14%,14%,15%,14%,12%,12%,,,,
+Quarterly Results,Other Income,1,2,3,3,4,5,3,5,7,5,6,7,11,,,,
+Quarterly Results,Interest,2,3,4,4,2,2,3,3,4,4,4,3,2,,,,
+Quarterly Results,Depreciation,12,13,14,14,13,14,15,16,16,17,19,19,20,,,,
+Quarterly Results,Profit before tax,13,17,30,37,37,47,50,46,45,48,52,46,45,,,,
+Quarterly Results,Tax %,19%,26%,26%,25%,25%,25%,25%,25%,26%,25%,26%,26%,24%,,,,
+Quarterly Results,Net Profit,10,13,22,28,28,35,37,35,34,35,39,35,34,,,,
+Quarterly Results,EPS in Rs,1.73,2.16,3.73,4.72,4.70,5.93,6.34,5.88,5.72,6.02,6.34,5.63,5.58,,,,
+Quarterly Results,Raw PDF,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+Profit & Loss,Sales,988,,,,1362,,,,1624,,,,1874,691,784,762,881
+Profit & Loss,Expenses,865,,,,1187,,,,1381,,,,1622,604,687,669,739
+Profit & Loss,Operating Profit,123,,,,175,,,,243,,,,251,86,97,93,141
+Profit & Loss,OPM %,12%,,,,13%,,,,15%,,,,13%,12%,12%,12%,16%
+Profit & Loss,Other Income,6,,,,12,,,,19,,,,29,2,2,3,10
+Profit & Loss,Interest,7,,,,13,,,,12,,,,13,7,13,16,10
+Profit & Loss,Depreciation,46,,,,53,,,,61,,,,76,28,35,42,45
+Profit & Loss,Profit before tax,76,,,,121,,,,188,,,,192,53,51,39,97
+Profit & Loss,Tax %,25%,,,,25%,,,,25%,,,,25%,32%,35%,22%,26%
+Profit & Loss,Net Profit,57,,,,90,,,,140,,,,143,36,33,30,72
+Profit & Loss,EPS in Rs,9.72,,,,15.31,,,,23.86,,,,23.33,6.27,5.79,5.29,12.30
+Profit & Loss,Dividend Payout %,26%,,,,20%,,,,14%,,,,26%,12%,13%,14%,20%
+,,,,,,,,,,,,,,,,,,
+Balance Sheet,Equity Capital,59,,,,59,,,,59,,,,61,57,57,57,59
+Balance Sheet,Reserves,410,,,,486,,,,604,,,,1104,209,237,262,372
+Balance Sheet,Borrowings,136,,,,127,,,,245,,,,184,139,165,134,132
+Balance Sheet,Other Liabilities,117,,,,160,,,,192,,,,216,105,117,113,118
+Balance Sheet,Total Liabilities,722,,,,831,,,,1100,,,,1566,511,577,566,681
+Balance Sheet,Fixed Assets,411,,,,426,,,,524,,,,624,261,363,354,354
+Balance Sheet,CWIP,12,,,,49,,,,94,,,,237,92,16,7,55
+Balance Sheet,Investments,11,,,,11,,,,4,,,,4,4,4,4,10
+Balance Sheet,Other Assets,288,,,,345,,,,478,,,,701,154,195,202,261
+Balance Sheet,Total Assets,722,,,,831,,,,1100,,,,1566,511,577,566,681
+,,,,,,,,,,,,,,,,,,
+Cash Flows,Cash from Operating Activity,84,,,,164,,,,153,,,,161,,,109,110
+Cash Flows,Cash from Investing Activity,-57,,,,-151,,,,-224,,,,-331,,,-43,-125
+Cash Flows,Cash from Financing Activity,-30,,,,-37,,,,69,,,,248,,,-51,28
+Cash Flows,Net Cash Flow,-2,,,,-23,,,,-1,,,,78,,,15,14
+,,,,,,,,,,,,,,,,,,
+Ratios,Debtor Days,28,,,,24,,,,30,,,,26,37,47,36,30
+Ratios,Inventory Days,52,,,,39,,,,44,,,,50,34,30,39,45
+Ratios,Days Payable,38,,,,38,,,,45,,,,38,37,42,42,45
+Ratios,Cash Conversion Cycle,42,,,,26,,,,29,,,,38,33,35,33,30
+Ratios,Working Capital Days,35,,,,20,,,,26,,,,26,18,30,16,30
+Ratios,ROCE %,14%,,,,21%,,,,25%,,,,18%,,15%,12%,21%
+,,,,,,,,,,,,,,,,,,
+Shareholding Pattern (Quarterly),Promoters,,51.11%,51.14%,51.14%,51.14%,51.17%,51.18%,51.18%,51.19%,51.19%,49.03%,49.03%,49.04%,,,,
+Shareholding Pattern (Quarterly),FIIs,,1.30%,1.31%,2.87%,5.64%,7.57%,9.10%,9.32%,8.39%,8.22%,13.12%,15.63%,16.03%,,,,
+Shareholding Pattern (Quarterly),DIIs,,13.73%,15.25%,15.81%,16.12%,18.24%,18.71%,17.98%,21.10%,20.77%,20.92%,19.71%,19.53%,,,,
+Shareholding Pattern (Quarterly),Public,,33.86%,32.30%,30.18%,27.10%,23.02%,21.02%,21.53%,19.33%,19.82%,16.91%,15.62%,15.42%,,,,
+Shareholding Pattern (Quarterly),No. of Shareholders,,120170,111327,97796,82771,74731,85552,93210,91418,95302,93130,94229,98170,,,,
+,,,,,,,,,,,,,,,,,,
+Shareholding Pattern (Yearly),Promoters,51.07%,,,,51.14%,,,,51.19%,,,,49.04%,,,,51.13%
+Shareholding Pattern (Yearly),FIIs,2.08%,,,,5.64%,,,,8.39%,,,,16.03%,,,,2.71%
+Shareholding Pattern (Yearly),DIIs,4.29%,,,,16.12%,,,,21.10%,,,,19.53%,,,,6.23%
+Shareholding Pattern (Yearly),Public,42.56%,,,,27.10%,,,,19.33%,,,,15.42%,,,,39.93%
+Shareholding Pattern (Yearly),No. of Shareholders,114152,,,,82771,,,,91418,,,,98170,,,,130217
+,,,,,,,,,,,,,,,,,,

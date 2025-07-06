@@ -1,0 +1,62 @@
+Section,,Mar 2022,Jun 2022,Sep 2022,Dec 2022,Mar 2023,Jun 2023,Sep 2023,Dec 2023,Mar 2024,Jun 2024,Sep 2024,Dec 2024,Mar 2025,Mar 2019,Mar 2020,Mar 2021
+Quarterly Results,Sales,159,174,178,230,208,230,235,281,253,273,297,370,311,,,
+Quarterly Results,Expenses,138,147,152,194,182,196,198,237,217,230,255,313,265,,,
+Quarterly Results,Operating Profit,21,27,26,36,26,34,37,45,36,43,42,57,46,,,
+Quarterly Results,OPM %,13%,16%,15%,16%,12%,15%,16%,16%,14%,16%,14%,15%,15%,,,
+Quarterly Results,Other Income,2,2,4,4,5,5,4,6,9,6,6,6,6,,,
+Quarterly Results,Interest,5,4,3,3,3,4,4,4,4,5,5,5,5,,,
+Quarterly Results,Depreciation,8,8,8,9,9,11,13,13,13,14,15,17,17,,,
+Quarterly Results,Profit before tax,10,17,18,28,18,24,25,34,28,31,29,41,30,,,
+Quarterly Results,Tax %,25%,25%,25%,25%,25%,25%,25%,26%,24%,26%,26%,27%,25%,,,
+Quarterly Results,Net Profit,8,13,14,21,13,18,19,26,21,23,21,29,23,,,
+Quarterly Results,EPS in Rs,3.75,5.02,5.32,8.10,5.21,7.12,7.29,9.52,7.85,8.51,7.93,11.00,8.49,,,
+Quarterly Results,Raw PDF,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Profit & Loss,Sales,577,,,,789,,,,999,,,,1252,444,458,387
+Profit & Loss,Expenses,505,,,,668,,,,841,,,,1063,407,402,344
+Profit & Loss,Operating Profit,72,,,,120,,,,158,,,,188,36,56,43
+Profit & Loss,OPM %,12%,,,,15%,,,,16%,,,,15%,8%,12%,11%
+Profit & Loss,Other Income,13,,,,15,,,,24,,,,24,2,2,17
+Profit & Loss,Interest,21,,,,20,,,,22,,,,19,11,24,20
+Profit & Loss,Depreciation,32,,,,35,,,,49,,,,63,5,33,33
+Profit & Loss,Profit before tax,32,,,,81,,,,111,,,,130,22,2,7
+Profit & Loss,Tax %,26%,,,,25%,,,,25%,,,,26%,39%,168%,29%
+Profit & Loss,Net Profit,23,,,,60,,,,83,,,,96,13,-1,5
+Profit & Loss,EPS in Rs,11.19,,,,23.65,,,,31.08,,,,35.93,7.23,-0.67,2.39
+Profit & Loss,Dividend Payout %,0%,,,,0%,,,,0%,,,,0%,0%,0%,0%
+,,,,,,,,,,,,,,,,,
+Balance Sheet,Equity Capital,19,,,,23,,,,24,,,,24,17,18,18
+Balance Sheet,Reserves,213,,,,608,,,,859,,,,958,117,132,139
+Balance Sheet,Borrowings,161,,,,121,,,,145,,,,289,69,174,140
+Balance Sheet,Other Liabilities,111,,,,127,,,,142,,,,139,98,98,96
+Balance Sheet,Total Liabilities,504,,,,880,,,,1171,,,,1410,301,422,394
+Balance Sheet,Fixed Assets,130,,,,197,,,,230,,,,401,22,125,113
+Balance Sheet,CWIP,0,,,,4,,,,9,,,,31,5,1,4
+Balance Sheet,Investments,2,,,,2,,,,25,,,,36,0,1,1
+Balance Sheet,Other Assets,373,,,,677,,,,907,,,,942,275,296,276
+Balance Sheet,Total Assets,504,,,,880,,,,1171,,,,1410,301,422,394
+,,,,,,,,,,,,,,,,,
+Cash Flows,Cash from Operating Activity,17,,,,-2,,,,31,,,,-20,-22,36,63
+Cash Flows,Cash from Investing Activity,-24,,,,-256,,,,-123,,,,47,-13,-15,-10
+Cash Flows,Cash from Financing Activity,26,,,,249,,,,125,,,,-58,35,-20,-45
+Cash Flows,Net Cash Flow,19,,,,-10,,,,33,,,,-32,0,2,8
+,,,,,,,,,,,,,,,,,
+Ratios,Debtor Days,3,,,,3,,,,6,,,,5,7,7,12
+Ratios,Inventory Days,222,,,,228,,,,230,,,,247,238,242,256
+Ratios,Days Payable,74,,,,65,,,,50,,,,37,79,80,93
+Ratios,Cash Conversion Cycle,151,,,,166,,,,185,,,,215,166,170,174
+Ratios,Working Capital Days,118,,,,132,,,,139,,,,156,121,135,134
+Ratios,ROCE %,15%,,,,18%,,,,15%,,,,13%,,10%,9%
+,,,,,,,,,,,,,,,,,
+Shareholding Pattern (Quarterly),Promoters,,65.16%,65.16%,64.67%,64.67%,63.82%,63.82%,57.88%,55.72%,54.70%,51.20%,50.79%,50.58%,,,
+Shareholding Pattern (Quarterly),FIIs,,7.47%,7.61%,7.49%,7.34%,6.49%,6.69%,10.41%,11.28%,11.20%,12.28%,12.61%,12.56%,,,
+Shareholding Pattern (Quarterly),DIIs,,6.95%,7.44%,9.32%,9.75%,10.51%,9.66%,12.17%,13.08%,14.04%,15.64%,16.58%,17.85%,,,
+Shareholding Pattern (Quarterly),Public,,20.42%,19.78%,18.52%,18.22%,19.17%,19.84%,19.54%,19.92%,20.04%,20.88%,20.02%,19.01%,,,
+Shareholding Pattern (Quarterly),No. of Shareholders,,12709,13256,13862,14685,15955,21657,27067,29715,32330,35858,39756,42900,,,
+,,,,,,,,,,,,,,,,,
+Shareholding Pattern (Yearly),Promoters,,,,,64.67%,,,,55.72%,,,,50.58%,,,
+Shareholding Pattern (Yearly),FIIs,,,,,7.34%,,,,11.28%,,,,12.56%,,,
+Shareholding Pattern (Yearly),DIIs,,,,,9.75%,,,,13.08%,,,,17.85%,,,
+Shareholding Pattern (Yearly),Public,,,,,18.22%,,,,19.92%,,,,19.01%,,,
+Shareholding Pattern (Yearly),No. of Shareholders,,,,,14685,,,,29715,,,,42900,,,
+,,,,,,,,,,,,,,,,,

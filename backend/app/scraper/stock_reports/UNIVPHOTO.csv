@@ -1,0 +1,59 @@
+Section,,Mar 2022,Jun 2022,Sep 2022,Dec 2022,Mar 2023,Jun 2023,Sep 2023,Dec 2023,Mar 2024,Jun 2024,Sep 2024,Dec 2024,Mar 2025,Mar 2019,Mar 2020,Mar 2021
+Quarterly Results,Sales,15,13,12,10,8,8,8,7,10,9,6,5,4,,,
+Quarterly Results,Expenses,13,13,25,59,49,50,60,89,58,26,7,99,34,,,
+Quarterly Results,Operating Profit,3,-0,-13,-49,-40,-42,-53,-81,-48,-17,-1,-94,-29,,,
+Quarterly Results,OPM %,17%,-3%,-102%,-497%,-494%,-554%,-670%,-1108%,-503%,-187%,-10%,-1958%,-658%,,,
+Quarterly Results,Other Income,503,30,1,24,8,10,6,16,6,7,214,5,11,,,
+Quarterly Results,Interest,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Quarterly Results,Depreciation,0,0,0,0,0,0,0,0,0,0,0,0,0,,,
+Quarterly Results,Profit before tax,505,30,-11,-25,-33,-32,-47,-65,-43,-10,214,-89,-19,,,
+Quarterly Results,Tax %,16%,-6%,18%,10%,7%,9%,4%,6%,2%,19%,2%,-0%,12%,,,
+Quarterly Results,Net Profit,426,32,-13,-28,-35,-35,-48,-69,-43,-12,209,-89,-21,,,
+Quarterly Results,EPS in Rs,388.84,29.00,-12.12,-25.62,-31.87,-32.15,-44.05,-63.46,-39.72,-10.93,190.94,-81.29,-19.22,,,
+Quarterly Results,Raw PDF,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Profit & Loss,Sales,56,,,,43,,,,32,,,,25,0,62,47
+Profit & Loss,Expenses,46,,,,116,,,,257,,,,26,0,53,39
+Profit & Loss,Operating Profit,11,,,,-73,,,,-225,,,,-2,-0,10,8
+Profit & Loss,OPM %,19%,,,,-169%,,,,-692%,,,,-7%,,15%,17%
+Profit & Loss,Other Income,587,,,,34,,,,38,,,,98,0,39,31
+Profit & Loss,Interest,0,,,,0,,,,0,,,,0,0,0,0
+Profit & Loss,Depreciation,0,,,,0,,,,0,,,,0,0,1,1
+Profit & Loss,Profit before tax,597,,,,-40,,,,-187,,,,96,-0,48,39
+Profit & Loss,Tax %,14%,,,,13%,,,,5%,,,,9%,0%,9%,12%
+Profit & Loss,Net Profit,514,,,,-44,,,,-196,,,,87,-0,44,34
+Profit & Loss,EPS in Rs,469.87,,,,-40.62,,,,-179.37,,,,79.50,,40.10,31.29
+Profit & Loss,Dividend Payout %,0%,,,,-25%,,,,0%,,,,0%,0%,0%,0%
+,,,,,,,,,,,,,,,,,
+Balance Sheet,Equity Capital,11,,,,11,,,,11,,,,11,0.05,11,11
+Balance Sheet,Reserves,1062,,,,1037,,,,853,,,,863,-0,1201,1096
+Balance Sheet,Borrowings,0,,,,0,,,,0,,,,0,0,0,0
+Balance Sheet,Other Liabilities,17,,,,10,,,,16,,,,18,0,13,13
+Balance Sheet,Total Liabilities,1090,,,,1058,,,,880,,,,892,0,1224,1120
+Balance Sheet,Fixed Assets,5,,,,4,,,,4,,,,4,0,10,9
+Balance Sheet,CWIP,0,,,,0,,,,0,,,,0,0,0,0
+Balance Sheet,Investments,886,,,,851,,,,675,,,,878,0,1173,1100
+Balance Sheet,Other Assets,199,,,,203,,,,200,,,,10,0,41,10
+Balance Sheet,Total Assets,1090,,,,1058,,,,880,,,,892,0,1224,1120
+,,,,,,,,,,,,,,,,,
+Cash Flows,Cash from Operating Activity,-60,,,,-8,,,,4,,,,185,,1185,56
+Cash Flows,Cash from Investing Activity,59,,,,19,,,,-3,,,,-186,,-1168,-82
+Cash Flows,Cash from Financing Activity,0,,,,-11,,,,0,,,,0,,11,0
+Cash Flows,Net Cash Flow,-0,,,,-0,,,,1,,,,-1,,27,-27
+,,,,,,,,,,,,,,,,,
+Ratios,Debtor Days,17,,,,13,,,,24,,,,18,,15,12
+Ratios,Inventory Days,137,,,,150,,,,107,,,,121,,65,64
+Ratios,Days Payable,12,,,,11,,,,7,,,,12,,16,15
+Ratios,Cash Conversion Cycle,142,,,,152,,,,123,,,,127,,64,61
+Ratios,Working Capital Days,1235,,,,1688,,,,2216,,,,5700,,59,56
+Ratios,ROCE %,54%,,,,-7%,,,,-20%,,,,11%,,8%,3%
+,,,,,,,,,,,,,,,,,
+Shareholding Pattern (Quarterly),Promoters,,74.37%,74.54%,74.54%,74.54%,74.54%,74.54%,74.54%,74.54%,74.54%,74.54%,74.54%,74.54%,,,
+Shareholding Pattern (Quarterly),Public,,25.63%,25.45%,25.45%,25.44%,25.45%,25.46%,25.45%,25.45%,25.46%,25.46%,25.45%,25.46%,,,
+Shareholding Pattern (Quarterly),No. of Shareholders,,29838,29666,30248,30038,29648,29273,28822,28337,27948,27808,28327,28311,,,
+,,,,,,,,,,,,,,,,,
+Shareholding Pattern (Yearly),Promoters,74.55%,,,,74.54%,,,,74.54%,,,,74.54%,,74.55%,74.55%
+Shareholding Pattern (Yearly),FIIs,0.00%,,,,0.00%,,,,0.00%,,,,0.00%,,1.20%,0.00%
+Shareholding Pattern (Yearly),Public,25.45%,,,,25.44%,,,,25.45%,,,,25.46%,,24.25%,25.45%
+Shareholding Pattern (Yearly),No. of Shareholders,29822,,,,30038,,,,28337,,,,28311,,38542,34527
+,,,,,,,,,,,,,,,,,
